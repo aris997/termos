@@ -1,4 +1,47 @@
 #Prima lezione termodinamica - 2nd october 2017
 
-la termodinamica ha origini diverse dalla meccanica.
+La termodinamica ha origini diverse dalla meccanica.
+
+Si parlava di fluido calorico per spiegare lo scambio energetico.
+Le prime necessità della termodinamica nascono nella 
+prima rivoluzione industriale nel RegnoUnito.
+
+SISTEMA
+caratteristiche macroscopiche def situazioni microscopiche
+
+	Temperatura	pressione	Volume
+
+Definiscono l'energia interna del sistema.
+
+	U : Energia interna
+
+Tipi di sistemi
+  -Un 'sistema aperto' scambia energia e materia con l'ambiente (l'esterno del sistema). Ex. palloncino bucato, pentola che bolle.
+  -Un altro caso è un 'sistema chiuso' è un sistema che scambia solo energia con l'ambiente.
+  -Mentre un 'sistema isolato' non ha scambi. Né energia né materia.
+
+L'agitazione termica scambia energia con un pistone in un sistema chiuso, c'è dunque un equilibrio meccanico.
+Ci occuperemo di stati di equilibrio. Per rappresentare uno stato in un grafico pressione su volume (p/V) basta un punto. Una variazione di 
+conseguenza è una curva solitamente. C'è una legge che descrive tale variazione:
+	f(p,T,V, n_c, F) = 0
+descrive lo stato del sistema. 
+	pV -nRT = 0 		#equazione di stato dei gas perfetti.
+R è una costante, n il numero di moli.
+Per descrivere univocamente lo stato bastano le variabili di pressione e Volume. L'equazione descrive maggiori informazioni. Le variabili vengono 
+dette intensive e sono additive. Le variabili estensive soo additive.
+	T e p sono variabili intensive, non hanno proprietà additive
+	U V sono estensive dunque hanno l aproprietà additiva
+la densità non è una variabile estesiva.
+	  dU
+moli	n=--- 
+	  dV
+
+Quando si definisce una nuova misura va definito il metodo con cui si misura.
+
+Per definire la temperatura è necessario capire come si misura.
+Il principio zero della termodinamica è l'equilibrio termico. Un corpo A con coduzione termica differente da un corpo B messi a contatto idealmente 
+formano un corpo A+B. Con questo procedimento posso avere proprietà transitive.
+	A in eq con B e B in eq con C allora A e C sono in eq.
+Sfrutteremo una proprietà fisica che è funzione della temperatura. Cerchiamo una caratteristica tale che ci descrive una variazione della 
+temperatura. Un pezzo di metallo per grandi variazioni cambia colore ma non è un buon metodo. Una caratteristica funzionale è il volume di un corpo.
 
